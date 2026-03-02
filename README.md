@@ -1,6 +1,6 @@
 # ai-tool-test
 
-> 使用千问大模型进行学习
+> 使用千问大模型进行AI学习
 
 ## [使用 API Key](https://bailian.console.aliyun.com/cn-beijing/?tab=api#/api)
 

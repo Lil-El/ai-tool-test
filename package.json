@@ -18,7 +18,9 @@
   "homepage": "https://github.com/Lil-El/ai-tool-test#readme",
   "description": "",
   "dependencies": {
+    "@langchain/core": "^1.1.29",
     "@langchain/openai": "^1.2.11",
-    "dotenv": "^17.3.1"
+    "dotenv": "^17.3.1",
+    "zod": "^4.3.6"
   }
 }
